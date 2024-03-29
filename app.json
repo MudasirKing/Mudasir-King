@@ -1,13 +1,13 @@
 {
   "name": "suhail-md@1.3.1",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "description": "I am Mudasir King71 Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t",
+  "logo": "https://telegra.ph/file/4d597fae8baae244b5f18.jpg",
+  "keywords": ["whatsappbot", "Mudasir King 71", "Mudasir king bot", "Mudasir-Md", "Mudasir71WhatsaooBot", "MudasirWaBot","MudasirMD","Mudasir Md Whatsapp Bot","multi device"],
+  "success_url": "/bhaimudasir/",
   "app_url": "/qr/",
   
   "env": {
-    "OWNER_NAME": {
+    "OWNER_NAME": {Mudasir King 
       "description": "Name for Bot Owner",    
       "value": "Suhail Ser",
       "required" :true
@@ -24,12 +24,12 @@
       "value": "false",
       "required" :false
     },
-    "BOT_NAME": {
+    "BOT_NAME": {Mudasir bot 
       "description": " NAME FOR BOT",
       "required" :false,    
       "value": "sᴜʜᴀɪʟ-ᴍᴅ"
     }, 
-    "USER_IMAGES": {
+    "USER_IMAGES": {https://telegra.ph/file/4d597fae8baae244b5f18.jpg
       "description": "Image for bot",
       "required" :false,    
       "value": "https://telegra.ph/file/758549f0de2219884f387.jpg,https://telegra.ph/file/9498496b010dfb5900b80.jpg,https://telegra.ph/file/59bf80efbb6e6576b5a52.jpg,https://telegra.ph/file/ee0e191363161e88e4743.jpg"
@@ -44,7 +44,7 @@
       "required" :false,    
       "value": "false"
     },     
-    "READ_COMMAND": {
+    "READ_COMMAND": {true
       "description": " Read bot cmds",
       "required" :false,    
       "value": "false"
@@ -59,12 +59,12 @@
       "required" :false,   
       "value": "false"
     }, 
-    "HEROKU_API_KEY": {
+    "HEROKU_API_KEY": {60e2804f-db34-417b-b9f1-8c2171676dce
       "description": "Put Your Heroku Api Key Here",
       "value": "",
       "required" :true 
     },   
-    "HEROKU_APP_NAME": {
+    "HEROKU_APP_NAME": {bhaimudasir 
       "description": "Put Your Heroku App Name Here",
       "value": "",
     "required" :true
@@ -74,7 +74,7 @@
       "required" :false,
       "value": "unavailable"
     },
-    "AUTO_READ_STATUS": {
+    "AUTO_READ_STATUS": {true
       "description": "Fill the value true if you want bot view your Statuses.",
       "required" :false,
       "value": "true"
@@ -94,15 +94,15 @@
       "value": "false",
       "required" :false
     },
-    "PREFIX": {
+    "PREFIX": {.
       "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
       "value": "."
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {923136197547
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "value": "923184474176"
     },
-    "SESSION_ID": {
+    "SESSION_ID": {SUHAIL_07_41_03_29_ewogICJjcmVkcy5qc29uIjogIntcIm5vaXNlS2V5XCI6e1wicHJpdmF0ZVwiOntcInR5cGVcIjpcIkJ1ZmZlclwiLFwiZGF0YVwiOlwieUN5eXZyeWZmQTdLTjdXSzhhbkoyS0JlVmQ4SDZoMmNIMXNvbWh2S3lIYz1cIn0sXCJwdWJsaWNcIjp7XCJ0eXBlXCI6XCJCdWZmZXJcIixcImRhdGFcIjpcIjhDWWRJeUlaUy83YXhXaGtqUm04MXRlYkgrN1lueTJwUWpReUpHalFYVTA9XCJ9fSxcInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyXCI6e1wicHJpdmF0ZVwiOntcInR5cGVcIjpcIkJ1ZmZlclwiLFwiZGF0YVwiOlwiQUovdkZmZzBNeHBHSGd5ZTQ2SjF1NWFBNnRPYUh3Sk5kcWtYK2NUR1YxOD1cIn0sXCJwdWJsaWNcIjp7XCJ0eXBlXCI6XCJCdWZmZXJcIixcImRhdGFcIjpcInZ2WWgxQWF2MGtkdFVyd3YvNC9WUTJSWTlmdzVkZTNialJUdWZsRVJ5Mjg9XCJ9fSxcInNpZ25lZElkZW50aXR5S2V5XCI6e1wicHJpdmF0ZVwiOntcInR5cGVcIjpcIkJ1ZmZlclwiLFwiZGF0YVwiOlwiWUZqeFMrSWhvZXc5eTJSU0VBeDFlSWNkUWpsVmhleWxWK3I5TElEcXhGOD1cIn0sXCJwdWJsaWNcIjp7XCJ0eXBlXCI6XCJCdWZmZXJcIixcImRhdGFcIjpcIlpJUHhOU1dkdGZQdzZDdlhsQTJoMElGOFpQWlk3d2F5Z0pHdkM3ZlVnMjg9XCJ9fSxcInNpZ25lZFByZUtleVwiOntcImtleVBhaXJcIjp7XCJwcml2YXRlXCI6e1widHlwZVwiOlwiQnVmZmVyXCIsXCJkYXRhXCI6XCJVRHk0SHdzTC9acWdrK0JTOVJHM0VqR0FMN011RmRsSjQxbzYvL1VXd1hRPVwifSxcInB1YmxpY1wiOntcInR5cGVcIjpcIkJ1ZmZlclwiLFwiZGF0YVwiOlwid0had29sWU9HNlNOR3lyR2xwK3dtV2xaaWtJeFE1bndXV2lxRWZjRXhpRT1cIn19LFwic2lnbmF0dXJlXCI6e1widHlwZVwiOlwiQnVmZmVyXCIsXCJkYXRhXCI6XCI0QWovSTlzbW9WeXRjN01NMUE0ZC9yUTdKZGg2NFo0SDZDY1RwdkhzelRNVVRIY0tGY1hsakp1MkFQcUlsUXdVTmtCZUN6STlqWmN0UnJvOEdGa2ZpZz09XCJ9LFwia2V5SWRcIjoxfSxcInJlZ2lzdHJhdGlvbklkXCI6NDgsXCJhZHZTZWNyZXRLZXlcIjpcInlVQm01bERFQlF5SW9FWjZSNS9MVTVLQ2ZLazYvMVVWb3dwb2tPVElnNVk9XCIsXCJwcm9jZXNzZWRIaXN0b3J5TWVzc2FnZXNcIjpbXSxcIm5leHRQcmVLZXlJZFwiOjMxLFwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWRcIjozMSxcImFjY291bnRTeW5jQ291bnRlclwiOjAsXCJhY2NvdW50U2V0dGluZ3NcIjp7XCJ1bmFyY2hpdmVDaGF0c1wiOmZhbHNlfSxcImRldmljZUlkXCI6XCJvQXhfOC1QMFIzR0tITUlhZE8yLW1RXCIsXCJwaG9uZUlkXCI6XCJmYWNlYzM1Mi0xNjM5LTQyMGMtOTUyYy00OTM0NGM2YzVmYzlcIixcImlkZW50aXR5SWRcIjp7XCJ0eXBlXCI6XCJCdWZmZXJcIixcImRhdGFcIjpcIm9IOFRnN0dtNXgvS3gvMGpCM1lEdG92aWZzOD1cIn0sXCJyZWdpc3RlcmVkXCI6dHJ1ZSxcImJhY2t1cFRva2VuXCI6e1widHlwZVwiOlwiQnVmZmVyXCIsXCJkYXRhXCI6XCJZOVNSaEpGRHk0Ui8yVFlvMFVHSG1SWXRkWnc9XCJ9LFwicmVnaXN0cmF0aW9uXCI6e30sXCJwYWlyaW5nQ29kZVwiOlwiM1BWQjJEWldcIixcIm1lXCI6e1wiaWRcIjpcIjkyMzIzOTk1MDA0Njo4QHMud2hhdHNhcHAubmV0XCIsXCJuYW1lXCI6XCLQvM+F4oiCzrHRlc650Y8gzrrOudC4ZyDigbfCuVwiLFwibGlkXCI6XCIzMjY4OTIzMTA5NTE2OjhAbGlkXCJ9LFwiYWNjb3VudFwiOntcImRldGFpbHNcIjpcIkNKU2wwcFlDRUtEaG1iQUdHQUVnQUNnQVwiLFwiYWNjb3VudFNpZ25hdHVyZUtleVwiOlwiSjlVKzNtZGoycm43T29SWCtLYjZpY0ZsS2JSZ3I4VUhzVk5kRkZyUjRFbz1cIixcImFjY291bnRTaWduYXR1cmVcIjpcIlFqYW40Zmt6b2NVUmh3OVdodTN5bGR1dmdCMER6ZDBkQTZxYmpwZjRTdjMxSlMwVmhIZWIzVGw1VnA3enUyUHpld3AxRkMwTVFGZVU3UGJmWmJzcEF3PT1cIixcImRldmljZVNpZ25hdHVyZVwiOlwiRE1RSEExYmJPV0hFa2grR0dwendtS0EzQmkvUitRRU1hSkVNYkJjaUt2Z0FzbXJiZGNBNWI1b3o5TDgzL251SlBiQUNGby9ZeC9GWXZTek0vcit5aUE9PVwifSxcInNpZ25hbElkZW50aXRpZXNcIjpbe1wiaWRlbnRpZmllclwiOntcIm5hbWVcIjpcIjkyMzIzOTk1MDA0Njo4QHMud2hhdHNhcHAubmV0XCIsXCJkZXZpY2VJZFwiOjB9LFwiaWRlbnRpZmllcktleVwiOntcInR5cGVcIjpcIkJ1ZmZlclwiLFwiZGF0YVwiOlwiQlNmVlB0NW5ZOXE1K3pxRVYvaW0rb25CWlNtMFlLL0ZCN0ZUWFJSYTBlQktcIn19XSxcInBsYXRmb3JtXCI6XCJzbWJhXCIsXCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXBcIjoxNzExNjk4MDg1fSIKfQ==
       "description": "put your SESSION_ID here.",
       "value": ""
   
@@ -122,7 +122,7 @@
       "value": "",
       "required" :false
     },
-    "MODE": {
+    "MODE": {public 
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
       "value": "private"
     },
